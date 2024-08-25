@@ -13,7 +13,7 @@ const AboutCeo = () => {
     content: {
       sectionTitle: "Who we are?",
       description:
-        "Our founders Dustin Moskovitz and Justin Rosenstein met while leading Engineering teams at Facebook. As operations scaled, they grew frustrated by how difficult it was.",
+        "Our founders Mayur Chaudhari and Mohit Chaudhari met while leading Engineering teams at Facebook. As operations scaled, they grew frustrated by how difficult it was.",
     },
     rating: {
       text: "Avg 4.8 rating makes us world best agency.",
